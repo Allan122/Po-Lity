@@ -279,4 +279,6 @@ The Pitt's India Act of 1784 was a significant piece of legislation that marked 
    **Answer:** Pitt's India Act of 1784 was significant as it marked the beginning of direct British parliamentary control over the East India Company, introduced a system of dual control, enhanced the Governor-General’s authority, and established accountability of Company officials to the British government, thereby laying the groundwork for systematic governance and revenue management in British India.
    
 ---
+# **"British possession" means any colony, plantation, island, territory, or settlement within Her Majesty's dominions and not within the United Kingdom.**
+
 
